@@ -1,19 +1,17 @@
-# 📓 About The Remade
+# 📓 关于 The Remade
 
-The founder Tommy himself is a veteran sneaker collector, but after chasing the market for a while, he found that instead of chasing other people's limited-edition sneakers, it is better to design one-of-a-kind custom-made shoes. Later, it happened to catch up with the community craze, and everyone began to pursue "personalization", which made The Remade's creations catch the eyes of many celebrities and brands.
+创办人 Tommy 本身就是资深球鞋藏家，但年轻追逐市场一段时间后，他发现与其追逐别人的限量球鞋，不如自己设计独一无二的订制鞋。后来也正好搭上社群热潮，大家开始追求「个性化」，让 The Remade 的创作映入许多名人与品牌眼中。
 
 <figure><img src=".gitbook/assets/02.jpg" alt=""><figcaption><p>Air Force 1 “Chinese Koi”</p></figcaption></figure>
 
-### Customized sneakers for the Bucks, **Nick Chou** and other celebrities
+### 曾为公鹿队、周汤豪等名人订制球鞋
 
-THE REMADE has customized exclusive sneakers for many international celebrities, such as Chris Brown, Nelly, Nick Chou, etc.; and the more well-known recent works are commemorative shoes to celebrate the NBA "Milwaukee Bucks" winning the championship again after 50 years. .
+THE REMADE 曾为许多海内外名人订制专属球鞋，如 Chris Brown、Nelly、周汤豪、蒋友柏等；而近期比较知名的作品，应是为庆祝 NBA 「密尔瓦基公鹿队」上季睽违 50 年再度夺冠的纪念鞋。照片中可看见这双 AJ1，是以公鹿队配色打造、鞋身奢华地布满水钻，内侧印有「Fear the Deer」队标，鞋舌则为 CHAMPIONS 字样，做工超级精细！同时这也是 NBA 赛史上首双冠军鞋，推翻过去只有冠军戒的不成文规定。
 
-In the photo, you can see that this pair of AJ1s is made of the Bucks color scheme, the body is luxuriously covered with rhinestones, the "Fear the Deer" team logo is printed on the inside, and the word CHAMPIONS is printed on the tongue. The workmanship is super fine! At the same time, this is also the first pair of championship shoes in the history of the NBA game, overturning the unwritten rule of only the championship ring in the past.
+<figure><img src=".gitbook/assets/05 (2).jpg" alt=""><figcaption><p>公鹿队冠军鞋</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/05 (2).jpg" alt=""><figcaption><p>Bucks Championship Shoes</p></figcaption></figure>
+### 不再只是二创，而是将在元宇宙推出「品牌原创作品」
 
-### It is no longer just a second creation, but will launch "brand original works" in the Metaverse
+过去 THE REMADE 主理人 Tommy Chen 所设计的订制球鞋，都是先买下 Nike、Adidas 等品牌的官方原作，再经由涂鸦、雷雕、换皮，甚至 3D 列印等手法来进行二创；而即将在元宇宙推出的「THE REMADE：E-DAMER 」NFT 同样也秉持着「订制」、「独一无二」原则，但鞋体本身应会是全手工打造，也就是 THE REMADE 或将推出「品牌原创作品」。
 
-In the past, the custom-made sneakers designed by Tommy Chen, the manager of THE REMADE, first bought the official originals of brands such as Nike and Adidas, and then created them through graffiti, laser carving, skin changing, and even 3D printing. The "THE REMADE: E-DAMER" NFT to be launched in the Metaverse also adheres to the principles of "customization" and "uniqueness", but the shoe body itself should be entirely handmade, that is, THE REMADE may launch a "Brand Original Work".
-
-<figure><img src=".gitbook/assets/06 (2).jpg" alt=""><figcaption><p>RE：DREAMER shoes</p></figcaption></figure>
+<figure><img src=".gitbook/assets/06 (1).jpg" alt=""><figcaption><p>RE：DREAMER 鞋款</p></figcaption></figure>

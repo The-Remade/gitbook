@@ -1,53 +1,55 @@
-# ❓ E-DAMER Q\&A
+# ❓ E-DAMER 问与答
 
-### 01、What is E-DAMER NFT?
+### 01、什么是 E-DAMER NFT？
 
-E-DAMER is issued by The Remade and is a NFT that creates a pair of customized shoes every 90 days. During each 90 days cycle for which the NFT is held, a RNFT is produced and is redeemable for an actual physical pair of sneakers. The transaction is permanent. Purchasers can participate in the social networking as well as the manufacturing process of the shoe itself.
+E-DAMER 是由 The Remade 项目方发行的NFT，每持有90 天产生出一张 RNFT 并可以用来兑换实体客制球鞋或其他商品的项目，永久有效。持有 NFT 也可参与 Discord 社群互动及球鞋的制程。
 
-### 02、What is RNFT?
+### 02、什么是 RNFT?
 
-RNFT is a new NFT exchange protocol designed by RE:DREAMER Lab, actualizing the original Saas service of the corresponding Web3. In other words, this is an exchangeable NFT (much like a token in an online store, which picture can either be a shoe lace or shoe box) and when E-DAMER is confirmed to have been held for 90 days it will automatically airdrop RNFT to the wallet (polygon chain) and will be able to redeem the specific shoe model for that season (based on online store availability). Purchaser can also withhold and accumulate multiple RNFTs in exchange for special shoe models or even trade on OS to increase the chance of obtaining these special models.
+RNFT 是由 RE:DREAMER Lab 所设计一套新的 NFT 兑换协议，并实现对应 Web3 原生 Saas 服务。可以理解成一个兑换式的 NFT (像是商城的代币)，当 E-DAMER 被确认连续持有满 90 天后会自动空投 RNFT 到钱包 (Polygon 链)，可以使用 RNFT 兑换当季商品，也可以保留并累积多个 RNFT 兑换特殊商品，甚至可以在 OpenSea 上交易增加持有量。
 
-<figure><img src=".gitbook/assets/FRqVROSakAAeywe.jpg" alt=""><figcaption><p>E-DAMER 運作方式</p></figcaption></figure>
+<figure><img src=".gitbook/assets/FRqVROSakAAeywe (1).jpg" alt=""><figcaption><p>E-DAMER 运作方式</p></figcaption></figure>
 
-### 03、How are shoes redeemed? Do they come in different sizes?
+### 03、如何兑换鞋子？ Size 可以选吗？其他国家有寄送吗 ?
 
-Purchasers can select different sizes when redeeming shoes with RNFT at the online store.
+前往官方商城网站，使用 RNFT 兑换，同时可选择要兑换的尺寸。**包裹全球皆可寄送**。
 
-### 04、What kind of shoe model can be redeemed for each 90 days cycle?
+### 04、每 90 天可以得到的鞋子款式是什么？
 
-Prior to airdrop, redeemable shoe model for that season will be announced for a limited time period. The total amount for said model alone for that season will be approximately 500 pairs. It could be 500 pairs per model or 200 something pairs per two models. Special co-branding shoe models will also be announced and available for redemption with 3 to 5 RNFTs. The rarer the shoe model, the more valuable the Holder’s RNFT. Only E-DAMER is capable of creating RNFTs in exchange of these shoe models. For non-E-DAMER holders, as long as the holder has enough RNFTs, they will not be limited to the number of shoes that are redeemable for that season, thereby increasing fluidity and value of secondary markets because of the rareness of RNFTs.
+**空投前会公布当季可兑换的鞋款和兑换期限**，每季提供鞋款的总量约为 500 双，可能是一款 500 双，或者是两款各 200 多双等，也会有联名款等特殊鞋款公布并让大家用 2 个或以上的 RNFT 兑换，当越稀有的鞋款被公布时持有者手上的 RNFT 就会越值钱。只有 E-DAMER 可以产生 RNFT 来兑换这些鞋款，而即使是非 E-DAMER 的持有者，只要有足够的 RNFT，也可以兑换鞋子。不会限定每季可兑换的数量，利用 RNFT 的稀缺性来增加在二级市场的流动性与价值。
 
-<figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption><p>The first season (06/24 ~ 9/21) redeem shoes</p></figcaption></figure>
+<figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption><p>第一季（06/24～9/21）兑换鞋款</p></figcaption></figure>
 
-### 05、How do purchasers earn RNFTs?
+### 05、取得 RNFT 的方式有哪些？
 
-There will be at most 500 RNFTs per every 90 days cycle. The channel for earning RNFTs will be through E-DAMER because only E-DAMER’s NFTs are able to produce RNFTs. There is no other way through which RNFTs can be produced. Moreover, only when the purchaser participates in the points game of the social network, “Discord” and accumulates a total of 10,000 points is the purchaser allowed to redeem RNFTs and use these to exchange for products on the online store. The Remade confirms that RNFTs given by the social network are actually selected from those 500 RNFTs and then airdropped (meaning those held by the project owner are given back to the social network).
+每 90 天最多只会有 500 个 RNFT，另外 20 个传奇版不会产生 RNFT。 RNFT 取得管道，只有 E-DAMER 的 NFT 会生 RNFT 不会有其他的管道凭空出现 RNFT。除了持有 E-DAMER 之外，在 Discord 社群参与积分制活动，集满 10,000 积分可以兑换 RNFT，并使用 RNFT 兑换商城中的商品。
 
-### 06、What social network activities are there?
+{% hint style="info" %}
+社群回馈的 RNFT 也是从 500 个里面去空投
+{% endhint %}
 
-At present, the Discord community has a point activity. Previously, a Mother's Day creation competition and a sticker creation award were held. The Mother's Day creation competition allowed community members to create together with the theme of Mother's Day to create shoes that they want to send to their mothers. E-DAMER will also discover designs from it, and maybe one day its own designs may be redeemed as physical sneakers in the mall with RNFT. The sticker creation award is to create stickers that match the community, so that members can use E-DAMER's stickers to promote when they go to other communities.&#x20;
+### 06、有哪些社群活动？
 
-Recently, it has continued to conduct joint AMAs with other well-known projects, and has contacted more people from different countries, so that the community will have more and different development in the future.
+目前 Discord 社群有积分活动，之前举办过母亲节创作比赛及贴图创作大赏，母亲节创作比赛让社群成员一起发想以母亲节为主题创作出心目中要送个母亲的鞋子，E-DAMER 也会从中发掘设计，说不定有一天自己的设计也可能在商城中以 RNFT 兑换。贴图创作大赏为创作符合社群的贴图，让成员到别的社群时可以使用 E-DAMER 的贴图推广。
 
-### 07、How do purchasers participate in the shoe manufacturing process?
+**近期持续与其他知名项目进行联合 AMA**，已触及更多不同国家的人，让社群未来有更多不一样的发展。
 
-E-DAMER usually shares the design/shoe making process and shoes created with various inspirations. At the same time, the current first season decided the AF1 shoe type during the AMA process. Most people in the theme part want to be dominated by TOMMY, and TOMMY proposed a summer color scheme and produced several pairs of different styles of shoes for community holders to decide together.&#x20;
+### 07、如何参与鞋子的制程？
 
-The shoes of Elysium, RE:DREAMER, etc. made before are in the process of creative thinking, and I hope everyone can give ideas or suggestions.
+E-DAMER 会分享平常设计/鞋子制作的过程跟各种灵感为主题创作的鞋，同时目前第一季在 AMA 的过程中决定了 AF1 的鞋型，主题的部分多数人希望由 TOMMY 主导，而 TOMMY 提出了夏日配色，制作出了几双不同款式的鞋子，来让社群持有者共同决定。之前制作的极乐世界、RE:DREAMER 等的鞋子，是在创意发想的过程，希望大家给出想法或建议。
 
-### 08、Would unlimited RNFTs cause imbalance in demand and supply?
+### 08、RNFT 无限产会不会导致供需不平衡 ?
 
-Since the number of shoes produced per season is approximately about 500 pairs, it could either be 500 pairs per model or 200 or so pairs per two models. Purchasers might worry that the excess number of RNFTs produced every 90 days would cause imbalance in demand and supply, however, after the first pair of shoe was introduced, E-DAMER will just keep on being transferred. The number of times RNFT is derived from E-DAMER is far less than us Diamond Hands and can thus control the number of RNFTs, allowing early-stage holders to maintain their rights.
+持有者会担心每 90 天产生的 RNFT 过多导致供需不平衡，实际上第一双鞋亮相后 E-DAMER 只会被一直转移，它产生的 RNFT 数量会比总量 500 少很多，相对可以控制 RNFT 的数量，让初期持有者维持该有的权利。
 
-### 09、How many times can a purchaser redeem shoes with RNFT?
+### 09、RNFT 可以换几次鞋子？
 
-It can only be redeemed once, and the RNFT will be burned after the redemption is completed.
+只能兑换一次，在兑换完成后会将 RNFT 烧掉。
 
-### 10、Are there any practical means of promotion?
+### 10、有什么实际的推广行为吗？
 
-E-DAMER flew to New York in mid-June to lead the team to NFT NYC to promote and be a speaker, and brought the first pair of shoes and E-DAMER to the international market. Recently, there have also been recorded Podcast program promotion projects such as "寶博朋友說" and "NFT輕鬆聊". In September, the founder will go to NFT LONDON as a speaker to promote E-DAMER. After the end, he will participate in fashion weeks and other events in Europe and continue to promote it.
+E-DAMER 六月中飞往纽约带领团队去 NFT NYC 推广并当讲者，并将第一双鞋和 E-DAMER 推向国际。近期也有录制「宝博朋友说」和「NFT轻松聊」等 Podcast 节目推广项目。九月前往 NFT LONDON 担任讲者推广 E-DAMER ，结束后在欧洲参加时装周等大小活动，持续推广。
 
-### 11、When will Gen2 be promoted?
+### 11、未来 Gen2 何时推动？
 
-The current plan for Gen2 is to wait until after the first wave of airdrop is complete. We will fulfill our promise first and proceed later with Gen2 3D shoes.
+Gen2 目前规划是等第一波空投做好后再来推动，先完成一开始所承诺的路线再来进行 Gen2 3D 鞋的部分。

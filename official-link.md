@@ -1,14 +1,14 @@
-# 🔗 Official Link
+# 🔗 官方连结
 
-### Official Link：
+### 官方网站：
 
 [https://theremade.io/ ](https://theremade.io/)
 
-### Twitter：
+### 推特：
 
 [https://twitter.com/TheRemade\_](https://twitter.com/TheRemade\_)
 
-### Instagram：
+### IG：
 
 [https://www.instagram.com/theremade/](https://www.instagram.com/theremade/)
 

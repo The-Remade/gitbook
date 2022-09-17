@@ -1,10 +1,10 @@
 ---
-description: TBA
+description: 时间待定
 ---
 
-# 🤜 Cooperation projects
+# 🤜 合作项目
 
-Through the contract, it can be found that the project has 520 NFTs, but only 500 are actually sold, because the first 20 are the Legendary series. This series is reserved for future cooperation projects, and the first 10 cooperation projects have been released.
+透过合约可以发现项目有 520 张 NFT，但实际发售的只有 500 张，因为前 20 张是 Legendary 系列。该系列是预留给未来合作项目的位置，目前已经释出前 10 张的合作项目。
 
 <div>
 
@@ -28,7 +28,7 @@ Through the contract, it can be found that the project has 520 NFTs, but only 50
 
 <div>
 
-<figure><img src=".gitbook/assets/05.jpg" alt=""><figcaption><p>Token ID 5</p></figcaption></figure>
+<figure><img src=".gitbook/assets/05 (1).jpg" alt=""><figcaption><p>Token ID 5</p></figcaption></figure>
 
  
 
@@ -38,7 +38,7 @@ Through the contract, it can be found that the project has 520 NFTs, but only 50
 
 <div>
 
-<figure><img src=".gitbook/assets/07 (2).jpg" alt=""><figcaption><p>Token ID 7</p></figcaption></figure>
+<figure><img src=".gitbook/assets/07.jpg" alt=""><figcaption><p>Token ID 7</p></figcaption></figure>
 
  
 

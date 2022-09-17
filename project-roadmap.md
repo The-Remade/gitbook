@@ -1,21 +1,21 @@
-# 🗺 Project Roadmap
+# 🗺 项目路线图
 
-### Phase 1：
+### 第一阶段：
 
-* [x] E-DAMER series NFT released
-* [x] E-DAMER Collection redemption physical shoes
-* [ ] The Legend series released
-* [ ] Early holders vote for THE REMADE Gen2 design
+* [x] E-DAMER 系列 NFT 发售
+* [x] E-DAMER 系列兑换实体鞋
+* [ ] The Legend 系列释出
+* [ ] 早期持有者票选 THE REMADE Gen2 设计
 
-### Phase 2：
+### 第二阶段：
 
-* [ ] In the Metaverse and the physical world, hold THE REMADE Festival, a party that combines international art, trendy collections and music.
-* [ ] E-DAMER Series redeemable physical merchandise
-* [ ] THE REMADE Gen2 project announced
+* [ ] 在 Metaverse 及实体世界，举办 THE REMADE Festival，结合国际艺术、潮流收藏与音乐的派对
+* [ ] E-DAMER 系列可兑换实物商品
+* [ ] THE REMADE Gen2 计画公布
 
-### Phase 3：
+### 第三阶段：
 
-* [ ] Early holders will have priority to purchase all products of THE REMADE Metaverse brand and future cooperation projects.
-* [ ] THE REMADE metaverse flagship store opens
+* [ ] 早期持有者将优先购买 THE REMADE 元宇宙品牌的所有产品以及未来合作项目
+* [ ] THE REMADE 元宇宙旗舰店开业
 
-#### To be continued…
+#### 未完待续…

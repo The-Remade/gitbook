@@ -1,40 +1,40 @@
-# 💼 Team Member
+# 💼 团队成员
 
-### 👑Founder：Tommy Chen
+### 👑创办人：Tommy Chen
 
 Twitter：[https://twitter.com/Taiwanswagg](https://twitter.com/Taiwanswagg)&#x20;
 
 Instagram：[https://www.instagram.com/taiwanswag/](https://www.instagram.com/taiwanswag/)
 
-### 🛠Technical Lead：CK Sun
+### 🛠技术总监：CK Sun
 
 Twitter：[https://twitter.com/chenkuansun](https://twitter.com/chenkuansun)
 
-### 💪Technical Partner：RE:DREAMER
+### 💪技术合作伙伴：RE:DREAMER
 
 Twitter：[https://twitter.com/REDREAMER\_Lab](https://twitter.com/REDREAMER\_Lab)
 
-### 👟Project Manager：Dabao（大寶）
+### 👟项目经理：Dabao（大宝）
 
 Twitter：[https://twitter.com/dabao1124](https://twitter.com/dabao1124)
 
 Instagram：[https://www.instagram.com/dabao\_1124/](https://www.instagram.com/dabao\_1124/)
 
-### 📐Designer：
+### 📐设计师：
 
 #### HUANSHEN
 
 Instagram：[https://www.instagram.com/huan.lcc/](https://www.instagram.com/huan.lcc/)
 
-### ⌨Community MOD：
+### ⌨社群MOD：
 
-#### Chad（電台FM102.3）
+#### Chad（电台FM102.3）
 
 Twitter：[https://twitter.com/1023\_radio](https://twitter.com/1023\_radio)
 
-#### Brain（布萊恩）
+#### Brain（布莱恩）
 
-#### Haru（哈魯）
+#### Haru（哈鲁）
 
 Twitter：[https://twitter.com/theSunrisEz](https://twitter.com/theSunrisEz)
 
