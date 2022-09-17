@@ -1,0 +1,15 @@
+# Table of contents
+
+* [👟 The Remade](README.md)
+* [📓 About The Remade](about-the-remade.md)
+* [💼 Team Member](team-member.md)
+* [🔗 Official Link](official-link.md)
+* [🗺 Project Roadmap](project-roadmap.md)
+* [🤜 Cooperation projects](cooperation-projects.md)
+* [❓ E-DAMER Q\&A](e-damer-q-and-a.md)
+* [❓ RNFT redemption issues](rnft-redemption-issues.md)
+* [📚 RNFT Redemption Teaching](rnft-redemption-teaching.md)
+* [❓ How to add a Polygon chain](how-to-add-a-polygon-chain.md)
+* [❓ How to Add Matic Coins to Wallet](how-to-add-matic-coins-to-wallet.md)
+* [🎙 Discord Community AMAs](discord-community-amas.md)
+* [🎤 AMAs on Twitter Spaces](amas-on-twitter-spaces.md)
