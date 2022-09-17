@@ -1,4 +1,4 @@
-# 📚 RNFT Redemption Teaching
+# 📚 RNFT 兌換教學
 
 <figure><img src=".gitbook/assets/Step_1.jpg" alt=""><figcaption></figcaption></figure>
 

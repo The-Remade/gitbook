@@ -1,120 +1,140 @@
-# 🎙 Discord Community AMAs
+# 🎙 Discord 社群 AMA 紀錄
 
 ### 2022
 
 {% tabs %}
-{% tab title="Aug 21" %}
-1. Top 3 in the topic discussion version: NFT News version, Training version, and sneaker discussion version.
-2. You can go to **#🦖． Topicdiscussion** nominate moderators, nomination until August 24, moderators will open the channel after confirmation.
-3. An additional novelty version is added, with Dabasa as the moderator
-4. After serving as a moderator, I will discuss the follow-up cooperation and development with the MOD.
-5. There will be a small activity in the community in early September. I hope everyone will share the shoes they receive on Twitter or Instagram.
-6. In the future, it is expected to hold an offline small party, and there may be small surprises if you wear the exchanged sneakers to participate.
-7. Currently negotiating and cooperating with a number of projects, we hope that under the bear market conditions, there will be closer connection and interaction between projects.
-8. On 8/27-28, Dabao will give a speech on behalf of The Remade. Name of the event: Taiwan Next Step: Curation of Talent Demand Revolution in the Web3.0 Era, Location: Songshan Cultural and Creative Park . There will be booths on site to showcase the physical shoes and NFT vending machines for this exchange.
-9. 8/13 - 8/28 Leopard and Alpaca Art Exhibition, Location: HuaShan1914 (extended to 9/7) https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/
-10. The first batch of about 90 pairs of sneakers has arrived in Taiwan. It is expected to start shipping on August 22, and it is expected that redemption sneakers will be delivered to Taiwan and sent to you every week.
-11. E-DAMER is THE REMADE's WEB3 brand, E-DAMER is the inverted word of REMADE, and the small details on the naming.
-12. The sneakers for the next season are already in prototype form, you can also go to **#🔮． discuss-design** Make a wish or offer an idea
-13. Both male and female models have signed up, but there is still a shortage of photographers. If you have a shoe friend who is a photographer, you are welcome to sign up
+{% tab title="08/21" %}
+* 主題討論版票選前三名：NFT News 版、Training 版、球鞋討論版。
+* 可以到 **#🦖．topicdiscussion** 提名版主，提名到 8 月 24 日，版主確認後就會開啟頻道。
+* 額外增設新奇版，由 Dabasa 來擔任版主
+* 擔任版主後，會與 MOD 一起討論後續的合作與發展。
+* 九月初社群會有小活動，希望大家多分享收到的鞋子到推特或IG上。
+* 未來預計會舉辦線下小聚會，穿著兌換的球鞋來參加說不定會有小驚喜。
+* 目前與多個項目在談合作，希望在熊市的狀況下，各項目之間能夠有更密切的連結和互動。
+* 大寶對目前 NFT 市場的個人見解，可以聽錄音檔 29 分 25 秒開始，約 3 分鐘。
+* 8/27-28 大寶將代表 The Remade 進行演講介紹，活動名稱：台灣下一步：Web3.0 時代人才需求革命策展，地點：松菸文創園區，現場會有攤位展示這次兌換的實體鞋，與 NFT 販賣機。
+* 8/13 - 8/28 豹與羊駝藝術展 地點：華山文創園區 （延長到 9/7） https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/
+* 第一批約 90 雙球鞋已經抵達台灣，預計在 8 月 22 日開始寄出，後續預計每周都會有兌換的球鞋送達台灣並寄出給各位。
+* E-DAMER 是 THE REMADE 的 WEB3 品牌，E-DAMER 是 REMADE 的倒裝單字，命名上的小細節。
+* 下一季的球鞋目前已經有雛型了，也可以到 **#🔮．discuss-design** 許願或是提供想法
+* 男模特跟女模特都有人報名，目前還缺攝影師，如果有鞋友是攝影師歡迎開票報名
 {% endtab %}
 
-{% tab title="Aug 13" %}
-* Review of the events of REMADE 🎬┃roadmap
-* Johnny is a very good designer. He has collaborated with Takashi Murakami. We will have related cooperation with him in the future. You can follow his Twitter first. https://twitter.com/johnnyx\_nft
-* 8/13 - 8/28 Leopard and Alpaca Art Exhibition Location: HuaShan1914 https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/
-* 8/27-8/28 Taiwan Next Step: Curation of Talent Demand Revolution in the Web3.0 Era Location: Songshan Cultural and Creative Park https://www.accupass.com/event/2208091147261843480590
-* The E-DAMER redemption website will be revised and optimized in the future, so stay tuned!
-* The first batch of exchange shoes is already on the way, thank you for your patience!
-* THE REMADE/RE:DREAMER team members introduced:&#x20;
+{% tab title="8/13" %}
+* REMADE大事紀回顧 🎬┃roadmap
+* Johnny 是非常厲害的設計師，曾跟村上隆合作過，後續我們也會跟他有相關合作，可以先關注他的 Twitter。 [https://twitter.com/johnnyx\_nft](https://twitter.com/johnnyx\_nft)
+* 8/13 - 8/28 豹與羊駝藝術展 地點：華山文創園區 [https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/](https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/)
+* 8/27-8/28 台灣下一步：Web3.0 時代人才需求革命策展 地點：松菸文創園區 [https://www.accupass.com/event/2208091147261843480590](https://www.accupass.com/event/2208091147261843480590)
+* E-DAMER 兌換網站未來會進行改版優化，敬請期待！
+* 第一批兌換球鞋已經在路上，感謝大家耐心等候！
+* THE REMADE／RE:DREAMER 團隊成員介紹：
+  1. Dabao：THE REMADE 社群負責人，管理 MOD 工作、整合社群內外資訊及重要事項公告！
+  2. Chad：社群首席電台哥，主管 DC 社群開票大小事問題回覆、NOTION 資料總整理、活動策畫。
+  3. Brian：處理鞋子從工廠進口、台灣倉儲、活動策畫。
+  4. Haru：TWITTER、IG 等社群內容、活動策畫、活動策畫。
+  5. 沈歡：THE REMADE 首席設計師，負責替大家設計所有帥氣的專屬鞋款及形像圖。
+* 社群中有許多有各種資源的創業者朋友在做很酷的事情，例如 NFT 顯示器、球鞋清潔店等，希望社群內可以多互相交流分享資源，或者有任何跟 THE REMADE 合作建議，歡迎跟大寶聯絡！
+* 教主計畫 Sneak Peak：
+  1. 與藍籌項目持有者社群做非官方的合作計畫
+  2. 預計九月會到 NIKE 美國總部開會
+  3. 預計九月參加米蘭時裝週
+  4. 預計十月參加其他國際時尚展覽
+  5. 投資 lablaco 義大利公司
 
-**a) Dabao:** The head of THE REMADE community, manages MOD work, integrates information inside and outside the community, and announces important events!&#x20;
-
-**b) Chad:** The main moderator of the community, in charge of replying to the DC community invoicing issues, general arrangement of NOTION data, and event planning.&#x20;
-
-**c) Brian:** Handle shoe import from factory, warehousing in Taiwan, event planning.&#x20;
-
-**d) Haru:** TWITTER, IG and other community content, event planning, event planning.&#x20;
-
-**e) Shen Huan:** The main designer of THE REMADE, responsible for designing all the handsome exclusive shoes and promotional images for everyone.
-
-* There are many entrepreneurs and friends with various resources in the community doing cool things, such as NFT displays, sneaker cleaning shops, etc. I hope that the community can exchange and share resources with each other, or have any suggestions for cooperation with THE REMADE, Welcome to contact Dabao!
-* Founder's future plans:&#x20;
-
-a) Unofficial partnership projects with the blue-chip project holder community&#x20;
-
-b) It is expected to meet at NIKE US headquarters in September&#x20;
-
-c) Expected to attend Milan Fashion Week in September&#x20;
-
-d) Expect participation in other international fashion shows in October&#x20;
-
-e) Invest in lablaco italian company&#x20;
-
-**The goal is to create shoes that only celebrities and owners can wear. Let's promote E-DAMER to the world together!**
+目標打造只有明星跟持有者才穿的到的鞋子，大家一起把 E-DAMER 推向國際！
 {% endtab %}
 
-{% tab title="Jul 24" %}
-### Q & A
+{% tab title="7/24" %}
+### Q & A部分
 
-**Q1：REDEEM redemption process suggested to improve**
+Q1：REDEEM 兌換流程建議改善&#x20;
 
 A1：
 
-1. Open a channel to collect everyone's suggestions for improvement
-2. On the exchange page, put the size chart on it, and you can see it at a glance
-3. Online shipping progress query, there is no online action yet, and a data query system is already being written
-
-**Q2：When is the next AMA?**
-
-A2：Expected to receive shoes in mid-August
-
-**Q3：What is the current shipping progress? Are you willing to provide your ID number for shipment in the future?**
-
-A3: Because of the relationship between the card and EZWAY, it is currently expected that everyone will receive it around mid-August. Statistical results: Everyone is reluctant to provide the ID number, 8 votes in favor, 10 votes against, so it is tentatively decided that in the future, the principle of not collecting the ID number will be adopted, and the shipment will be shipped in a centralized warehouse in Taiwan and then forwarded.
-
-**Q4：When is the next offline meetup?**
-
-A4：The founder is also continuing to promote THE REMADE in the United States, so the next offline gathering should be hosted by Dabao, and the time is to be discussed
-
-**Q5：Can the founder share gadgets for protecting shoes and cleaning? (shoebox or cleaner, etc.)**
-
-A5：I will ask the founders to share more, if you have a good method, you can also share more
-
-**Q6：When will the shoes for the next season start?**
-
-A6: The shoes of the next season are expected to be designed in August. If you have any special IDEA, you can propose them, and you may have the opportunity to select styles from them to make shoes.
+1. 開啟一個蒐集大家建議的頻道，以利改善
+2. 在兌換的頁面，把尺碼對照表放上去，一目了然
+3. 線上出貨進度查詢，目前還沒有線上化的動作，已經在寫資料查詢系統
 
 
 
-### Information update
+Q2：下次AMA會在什麼時候？
 
-1. In the future, in addition to the shoes that can be exchanged with one RNFT, there will also be special shoes or products that require multiple RNFTs to exchange!
-2. If you want to check whether you have REDEEM successfully, you can go to the channel to check **#📦┃redeem-events**
-3. There will be closer cooperation with SNEAKER NEWS in the future, and there may be a joint AMA, so stay tuned
-4. Moving E-DAMER will recalculate 90 days, but moving RNFT will have no effect
-5. In the future, there will be a theme discussion area, so that everyone can have more extended discussions, and everyone can put forward interesting boards (such as: beauty version, movie version, P+ league version, etc.), and the moderator will also have special gifts.
-6. After everyone receives the shoes, it is expected to hold an event, so stay tuned
-7. There are special surprises in the shoe box sent this time, so stay tuned
-8. All previous invitation events and Twitter events have been airdropped
-9. The founder continues to promote THE REMADE abroad, and will participate in the NFT LONDON conference to promote the brand. Please make more efforts to promote THE REMADE.
-10. COOLWALLET still encounters technical problems. It seems that someone at LEDGER can REDEEM, but cold wallet users are still recommended to use hot wallet for redemption.
+A2：預計八月中在收到鞋子後
+
+
+
+Q3：目前出貨進度如何？未來是否願意提供身分證字號供出貨使用？&#x20;
+
+A3: 因為卡在 EZWAY 的關係，目前預計八月中左右會讓大家收到 統計結果: 大家不願意提供身分證字號，8票同意，10票反對，所以暫訂未來以不蒐集身分證字號為原則，採統一集中到台灣倉庫後轉寄方式出貨
+
+
+
+Q4：下次線下聚是什麼時候？&#x20;
+
+A4：教主還在美國持續推廣 THE REMADE，所以下次的線下聚應該會由大寶來主持，時間待討論
+
+
+
+Q5：可以請教主分享保護鞋子及清潔的小工具嗎？ （鞋盒或清潔劑等）&#x20;
+
+A5：會請教主多分享，大家有好的方法也可以多分享
+
+
+
+Q6：下一季的鞋子什麼時候開始設計？&#x20;
+
+A6: 下一季鞋款預計會在八月開始設計，大家如果有什麼特別的IDEA都可以提出，或許有機會從中選出熱門的款式去製作成鞋子
+
+
+
+### 資訊更新
+
+01、未來除了一個 RNFT 就可以兌換的鞋子外，也會推出需要多個 RNFT 才可以兌換的特殊款鞋子或商品！
+
+02、若想查詢自己有沒有 REDEEM 成功，可以到頻道查詢 #**📦┃redeem-events**
+
+03、**未來與 SNEAKER NEWS 有更密切的合作**，或許有聯合 AMA，敬請期待
+
+04、移動 E-DAMER 會重新計算90天，移動 RNFT 則無影響
+
+05、**未來會開立主題討論區，讓大家可以有更多延伸討論**，大家提出有興趣的板（大家提到的：幹話版、美女版、電影版、P+ league版、寵物版等等），版主也會有特別好康的禮物
+
+06、大家收到鞋子之後，預計還會辦一個活動，敬請期待
+
+07、本次寄出鞋盒中有**特別的小驚喜**，敬請期待
+
+08、之前的邀請活動及推特活動均已完成空投
+
+09、教主持續在國外推廣 THE REMADE，且會參加 NFT LONDON 大會去用力推廣品牌，請大家也多多努力把 THE REMADE 推廣出去吧
+
+10、COOLWALLET 目前還是有遇到技術上的問題，LEDGER 似乎有人可以 REDEEM，但冷錢包使用者，**目前還是建議先用熱錢包做兌換**。
 {% endtab %}
 
-{% tab title="Jun 24" %}
-1. The tannin model is finally confirmed as the light-colored tannin.
-2.  RNFT and ASRNFT after 90 days have been airdropped. If you pass through Opensea, please go to Hidden to check.
+{% tab title="06/24" %}
+01、丹寧款最終確認為**淺色版丹寧**。
 
-    <figure><img src=".gitbook/assets/hidden.png" alt=""><figcaption></figcaption></figure>
-3. The exchange website and teaching have been opened, please go to **🔗┃official-links** to enter the official website and refer to **🎟┃how-to-redeem** to redeem.
-4. Be sure to switch to the Polygon chain first and then log in on the official website to redeem. For switching Polygon teaching, please refer to **💜｜polygon-eth**.
-5. You can refer to Nike's official website to choose the size or go directly to the physical store to interview and wear the Air Force 1. https://www.nike.com/size-fit/mens-footwear
-6. The redeemed RNFT will be burned and cannot be used anymore.
-7. After that, all holders of RNFT and ASRNFT will be able to see **🧬┃process-participate** in the creation process.
-8. All exchangeable styles have been completed, you can go to **🧬┃process-participate** in the creative process and refer to the physical photos to choose.
-9. The calculation has been restarted after holding for 90 days. If the holder needs to change to the cold wallet, it can be moved.
-10. The detailed exchange process and the new version of QA will be sorted out in the near future. Please give us a little more time to update.
-11. The invitation competition has ended. We will spend two to three days to exclude robots and announce the winner.
+02、**滿 90 天的 RNFT 及 ASRNFT 都已空投完畢，若經由 Opensea 請到 Hidden 查看**。
+
+<figure><img src=".gitbook/assets/hidden.png" alt=""><figcaption></figcaption></figure>
+
+03、兌換網站及教學已開放，請到 🔗┃**official-links** 進入官網並參考 🎟┃**how-to-redeem** 兌換。
+
+04、一定要先切換到 **Polygon 鏈**後再在官網登入才能兌換，切換 Polygon 教學可參閱 💜｜**polygon-eth**。
+
+05、尺碼可參考 Nile 官網來選擇或直接至實體店面試穿 Air Force 1。
+
+&#x20;[https://www.nike.com/size-fit/mens-footwear](https://www.nike.com/size-fit/mens-footwear) &#x20;
+
+06、已兌換的 RNFT 會被 burned 無法再被使用。
+
+07、之後將開放持有 RNFT 及 ASRNFT 者皆可以看到🧬┃**process-參與創作進程**。
+
+08、所有可兌換款式皆已完成，可以到🧬┃**process-參與創作進程** 參考實體照進行選擇。
+
+09、持有 90 天已重新開始計算，若需要更換至冷錢包的持有者可以進行了。
+
+10、近期會整理詳細版兌換流程及新版 QA 請再給我們一點時間更新。
+
+11、邀請比賽已截止，我們會花兩到三天的時間排除機器人後公佈得主。
 {% endtab %}
 {% endtabs %}
-

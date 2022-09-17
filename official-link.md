@@ -1,6 +1,6 @@
-# 🔗 Official Link
+# 🔗 官方連結
 
-### Official Link：
+### 官方網站：
 
 [https://theremade.io/ ](https://theremade.io/)
 
