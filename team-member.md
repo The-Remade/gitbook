@@ -2,7 +2,7 @@
 
 ### 👑Founder：Tommy Chen
 
-Twitter：[https://twitter.com/Taiwanswagg](https://twitter.com/Taiwanswagg)&#x20;
+Twitter：[https://twitter.com/Taiwanswag\_](https://twitter.com/Taiwanswag\_)
 
 Instagram：[https://www.instagram.com/taiwanswag/](https://www.instagram.com/taiwanswag/)
 
