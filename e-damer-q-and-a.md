@@ -1,4 +1,4 @@
-# ❓ E-DAMER 問與答
+# 💡 E-DAMER 問與答
 
 ### 01、什麼是 E-DAMER NFT？
 
