@@ -1,4 +1,4 @@
-# 🎤 Twitter Spaces 聯合 AMA
+# 🎤 項目聯合 AMA
 
 ### 2022/08/21 E-DAMER X Isekai Meta （中文）
 
@@ -32,18 +32,20 @@
 
 
 
-### 2022/10/17 E-DAMER X Metakicks by SneakMart（英文）
+### 2022/10/08 E-DAMER X SOOOUL（中文）
+
+<figure><img src=".gitbook/assets/SOOOUL.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[https://twitter.com/TheRemade\_/status/1582023653595619328](https://twitter.com/TheRemade\_/status/1582023653595619328?s=20\&t=yRsw-ULZUNUfuEV\_Z76vcA)
+[https://twitter.com/TheRemade\_/status/1582385364030828544](https://twitter.com/TheRemade\_/status/1582385364030828544?s=20\&t=yRsw-ULZUNUfuEV\_Z76vcA)
 {% endhint %}
 
 
 
-### 2022/10/08 E-DAMER X SOOOUL（中文）
+### 2022/10/17 E-DAMER X Metakicks by SneakMart（英文）
 
 {% hint style="info" %}
-[https://twitter.com/TheRemade\_/status/1582385364030828544](https://twitter.com/TheRemade\_/status/1582385364030828544?s=20\&t=yRsw-ULZUNUfuEV\_Z76vcA)
+[https://twitter.com/TheRemade\_/status/1582023653595619328](https://twitter.com/TheRemade\_/status/1582023653595619328?s=20\&t=yRsw-ULZUNUfuEV\_Z76vcA)
 {% endhint %}
 
 

@@ -38,7 +38,7 @@ Sneaker News 是一個運動鞋媒體平台，每天報導最令人垂涎​​�
 
  
 
-<figure><img src=".gitbook/assets/07 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/07 (2).jpg" alt=""><figcaption><p>Token ID 7</p></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ Sneaker News 是一個運動鞋媒體平台，每天報導最令人垂涎​​�
 
  
 
-<figure><img src=".gitbook/assets/09 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/09 (1).jpg" alt=""><figcaption><p>Token ID 9</p></figcaption></figure>
 
 </div>
 
