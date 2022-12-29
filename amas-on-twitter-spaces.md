@@ -56,4 +56,12 @@
 [https://twitter.com/TheRemade\_/status/1592699759609131008](https://twitter.com/TheRemade\_/status/1592699759609131008?s=20\&t=yRsw-ULZUNUfuEV\_Z76vcA)
 {% endhint %}
 
+
+
+### 2022/11/29 E-DAMER X Sneaker Heads（英文）
+
+{% hint style="info" %}
+[https://twitter.com/sneakerheadsoff/status/1590086128795004929](https://twitter.com/sneakerheadsoff/status/1590086128795004929?s=20\&t=DCDe7nKVQZIOLh3HemRg8w)
+{% endhint %}
+
 ### To be continued....
