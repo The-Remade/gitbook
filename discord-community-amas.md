@@ -3,7 +3,105 @@
 ### 2022
 
 {% tabs %}
-{% tab title="08/21" %}
+{% tab title="1028" %}
+◆ The Remade 與 Steve Nash 基金會合作，所有的捐款與拍賣收入都將全數捐贈給與慈善機構
+
+&#x20;◆ 經基金會同意後推出 TR X SN Air Force 1 復刻板盲盒&#x20;
+
+◆ 兌換說明請參考 🪐．announcement&#x20;
+
+◆ 兩張 Polygon 鏈上的 RNFT 兌換成一張 ETH 鏈上的 NFT 盲盒&#x20;
+
+◆ 錢包需準備 ETH （ETH 鏈） 和 Matic （Polygon 鏈）&#x20;
+
+◆ Tommy 在 10 月 31 日的線下活動會再透漏一些訊息給到現場的持有者
+
+
+
+&#x20;![:pumpkin:](https://cdn.discordapp.com/emojis/1026694564813213766.webp?size=44\&quality=lossless) 萬聖節線下活動 ![:pumpkin:](https://cdn.discordapp.com/emojis/1026694564813213766.webp?size=44\&quality=lossless)&#x20;
+
+◆ 活動資訊請參考 ⚡．events-ann&#x20;
+
+◆ 萬聖節線下活動購票連結：[https://www.accupass.com/event/2210171141121840277237](https://www.accupass.com/event/2210171141121840277237)&#x20;
+
+◆ 當天也有很多活動與小獎品，其中還有 REVO 白單&#x20;
+
+◆ Halfway Studio 的 IG [https://www.instagram.com/halfwaystud.io/](https://www.instagram.com/halfwaystud.io/)
+{% endtab %}
+
+{% tab title="1008" %}
+◆ 祝賀Sneaker News成為第一個 E-Damer的傳說鞋盒合作持有者。
+
+◆ The Remade是從台灣出發的國際項目，未來若有對外資訊對接與其他項目合作，基本上都會在Twitter上面開AMA。大多數會以英文的形式與外界合作。重要相關訊息都會在整理成中文給大家。(希望大家有空也可以都來參與，即使英文不會都會慢慢進步的唷！)
+
+◆ 周湯豪演唱會的門票，當日到達現場，統一找 @👟【鞋教】翔翔Max｜ THE REMADE 拿門票，會有專門TR座位區。
+
+Oct 10月(線上/線下)活動相關：
+
+◆ StevenNash 精彩時刻活動
+
+◆ 更換鞋子 NFT 頭像活動，(Twitter/IG/DC)都可，主要迎造萬聖節氛圍 (持有者可以把自己的頭像放在中文社群上，會幫忙大家變成新的圖檔)
+
+◆ 穿搭活動延長至 10 月底，會從中挑出最棒最好的影片創作者，提供世上只有僅少數的鞋子《芝加哥公牛鞋子》or《單寧稀有鞋》，請大家踴躍參加！ 現在官網還可以兌換 RE:DREAMER 鞋款哦～
+
+◆ 預計10/31-11/13，會舉辦台北線下中小型 TR 萬聖節活動 Party，請隨時追蹤 DC 訊息！
+{% endtab %}
+
+{% tab title="0917" %}
+◆ 全新官方網站上線，更新內容請參考 🪐．announcement&#x20;
+
+◆ 下一季球鞋為聯名款，由 RNFT 兌換另一個 NFT，並可以同時獲得虛擬鞋與實體鞋，詳細日期與兌換規則請等候公告&#x20;
+
+◆ RE:DREAMER 的鞋款將持續在商城讓持有者兌換，確保大家的權利&#x20;
+
+◆ 9 月 24 日參與 CloneX 在台北舉辦的線下聚會&#x20;
+
+◆ 10 月 10 日參與 C-cubed 舉辦的籃球比賽，參與活動的項目有 Yolocat、Fomodog、羊駝等，會以 3 對 3 的形式進行，歡迎有意願的鞋友來報名參加，參加者也會獲得 Tommy 提供的獎勵。&#x20;
+
+◆ 11 月 2、3 日 The Remade 參與 NFT London&#x20;
+
+◆ 11 月 18、19、20 日 The Remade 參與 DesignerCon ，許多國際知名的藍籌項目也會參與其中&#x20;
+
+◆ 10 月中至 11 月底將會有重要事件&#x20;
+
+◆ 12 月 9、10、11 日 The Remade 參與 One0ffs&#x20;
+
+◆ The Remade 歷年在農曆新年都有發表限定款球鞋，2023 年的農曆新年...敬請期待&#x20;
+
+◆ 未來 The Remade 的商場也能夠兌換其他品牌的商品、服飾等&#x20;
+
+◆ 虛實整合是目前的趨勢，說不定未來在商城兌換球鞋時可以同時獲得一雙實體跟一雙虛擬的，並讓自己 Web3 的人物也可以穿上同款球鞋&#x20;
+
+◆ 為了與社群更密切聯繫，新增設了 Line 的社群，歡迎大家加入&#x20;
+
+◆ 團隊在 DC 社群中分工主要為：創辦人 Tommy、項目經理 Dabao、DC 主要聯絡人 Chad (電台)、訂單負責人 布萊恩、合作宣傳 哈魯，近期還會新增一位 Mod&#x20;
+
+◆ 持有者如果想要與 The Remade 合作或是使用商標等做出其他產品的話，都歡迎與 Dabao 聯繫，讓整個社群能夠更加的壯大&#x20;
+
+◆ The Remade 接下來會與多位設計師合作 設計師：
+
+Johnny X NFT [https://twitter.com/johnnyx\_nft](https://twitter.com/johnnyx\_nft)&#x20;
+
+AR、VR 程式設計：EVITA [https://twitter.com/EvitaLabs](https://twitter.com/EvitaLabs)&#x20;
+
+動畫師：MakiDZN [https://twitter.com/MakiDZNS](https://twitter.com/MakiDZNS)&#x20;
+
+虛擬服裝設計：PXLDON [https://twitter.com/pxldon](https://twitter.com/pxldon)&#x20;
+
+◆ 未來 The Remade 的 Web2 品牌也會有事件公布&#x20;
+
+◆ 未來或許單持有 RNFT 也會有相關賦能&#x20;
+
+◆ The Remade 的主要團隊人數(包含社群)有 13 人，還有投資的四間公司人力&#x20;
+
+◆ The Remade 是要長期經營的項目，Lengend 和五元素的消息，未來會根據項目的發展來逐步公布&#x20;
+
+◆ 9 月份的『穿搭與開箱』活動，公布另一個特別獎項，詳細內容請參考 🪐．announcement&#x20;
+
+◆ E-damer 銷售所獲得的資金，主要用於投資其他公司與維持社群運營
+{% endtab %}
+
+{% tab title="0821" %}
 * 主題討論版票選前三名：NFT News 版、Training 版、球鞋討論版。
 * 可以到 **#🦖．topicdiscussion** 提名版主，提名到 8 月 24 日，版主確認後就會開啟頻道。
 * 額外增設新奇版，由 Dabasa 來擔任版主
@@ -20,7 +118,7 @@
 * 男模特跟女模特都有人報名，目前還缺攝影師，如果有鞋友是攝影師歡迎開票報名
 {% endtab %}
 
-{% tab title="8/13" %}
+{% tab title="0813" %}
 * REMADE大事紀回顧 🎬┃roadmap
 * Johnny 是非常厲害的設計師，曾跟村上隆合作過，後續我們也會跟他有相關合作，可以先關注他的 Twitter。 [https://twitter.com/johnnyx\_nft](https://twitter.com/johnnyx\_nft)
 * 8/13 - 8/28 豹與羊駝藝術展 地點：華山文創園區 [https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/](https://www.taishinbank.com.tw/TSB/personal/common/bonus/TSBankBonus-001146/)
@@ -44,7 +142,7 @@
 目標打造只有明星跟持有者才穿的到的鞋子，大家一起把 E-DAMER 推向國際！
 {% endtab %}
 
-{% tab title="7/24" %}
+{% tab title="0724" %}
 ### Q & A部分
 
 Q1：REDEEM 兌換流程建議改善&#x20;
@@ -110,7 +208,7 @@ A6: 下一季鞋款預計會在八月開始設計，大家如果有什麼特別�
 10、COOLWALLET 目前還是有遇到技術上的問題，LEDGER 似乎有人可以 REDEEM，但冷錢包使用者，**目前還是建議先用熱錢包做兌換**。
 {% endtab %}
 
-{% tab title="06/24" %}
+{% tab title="0624" %}
 01、丹寧款最終確認為**淺色版丹寧**。
 
 02、**滿 90 天的 RNFT 及 ASRNFT 都已空投完畢，若經由 Opensea 請到 Hidden 查看**。
