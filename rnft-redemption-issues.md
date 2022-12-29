@@ -2,9 +2,9 @@
 
 ### 01、領到 RNFT 後如何兌換商品？
 
-到官網後先將錢包切換至 Polygon 鏈，點選左側的錢包連結，出現商品後即可使用RNFT兌換，填寫收件資訊及尺碼後送出，經過 Polygon 鏈燃燒 RNFT 後就完成。
+到官網後先將**錢包切換至 Polygon 鏈**，點選右上角的連結錢包，簽署完成後，點選**限量款式**進行商品兌換出現商品後即可使用RNFT兌換，填寫收件資訊及尺碼後送出，經過 Polygon 鏈燃燒 RNFT 後就完成。
 
-<figure><img src=".gitbook/assets/02 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/a (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 02、我的錢包連上後未出現商品該如何解決？
 

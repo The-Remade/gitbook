@@ -34,9 +34,7 @@ Twitter：[https://twitter.com/1023\_radio](https://twitter.com/1023\_radio)
 
 #### Brain（布萊恩）
 
-#### Haru（哈魯）
 
-Twitter：[https://twitter.com/theSunrisEz](https://twitter.com/theSunrisEz)
 
 
 
