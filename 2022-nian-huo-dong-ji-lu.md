@@ -24,6 +24,8 @@
 
 ### 03．CloneX TW Year End Party
 
+{% embed url="https://twitter.com/dabao1124/status/1602934984050118658" %}
+
 {% embed url="https://twitter.com/CloneXtw/status/1605445408079040512" %}
 
 ### 04．CloneX Tokyo
@@ -53,6 +55,8 @@
 {% embed url="https://twitter.com/TheRemade_/status/1589862876386590720" %}
 
 {% embed url="https://twitter.com/greentazn/status/1594063195286536192" %}
+
+{% embed url="https://twitter.com/dabao1124/status/1594398057927348224" %}
 
 ### 03．Art Basel Miami
 {% endtab %}
@@ -108,6 +112,8 @@
 
 <figure><img src=".gitbook/assets/293165460_3260600954178396_750586243522554549_n_1.png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://twitter.com/CloneXtw/status/1572929120195194882" %}
+
 {% embed url="https://twitter.com/CloneXtw/status/1575760244814159872" %}
 
 ### 02．Silicon Slopes
@@ -160,9 +166,15 @@
 
 {% embed url="https://twitter.com/TheRemade_/status/1531525829200850944" %}
 
+{% embed url="https://twitter.com/TheRemade_/status/1532216049038671872" %}
+
 ### 02．NFT NYC
 
+{% embed url="https://twitter.com/TheRemade_/status/1537699015893979136" %}
+
 {% embed url="https://twitter.com/NFT_NYC/status/1557637947402457088" %}
+
+{% embed url="https://twitter.com/TheRemade_/status/1539657120307879936" %}
 
 ### 03．眼鏡開幕派對
 {% endtab %}
