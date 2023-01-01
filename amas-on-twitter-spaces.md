@@ -60,6 +60,8 @@
 
 ### 2022/11/29 E-DAMER X Sneaker Heads（英文）
 
+<figure><img src=".gitbook/assets/AnyConv.com__FhEe5pyUAAA43JU.jpg" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 [https://twitter.com/sneakerheadsoff/status/1590086128795004929](https://twitter.com/sneakerheadsoff/status/1590086128795004929?s=20\&t=DCDe7nKVQZIOLh3HemRg8w)
 {% endhint %}

@@ -7,6 +7,7 @@
 * [🗺 項目路線圖](project-roadmap.md)
 * [🤜 合作項目](he-zuo-xiang-mu.md)
 * [👑 Legendary 系列](cooperation-projects.md)
+* [🌟 明星持有者](ming-xing-chi-you-zhe.md)
 * [❓ E-DAMER 問與答](e-damer-q-and-a.md)
 * [⚒ 關於 RNFT (兌換教學與QA)](guan-yu-rnft-dui-huan-jiao-xue-yu-qa.md)
 * [🧑🏫 Polygon 鏈相關教學](polygon-lian-xiang-guan-jiao-xue.md)

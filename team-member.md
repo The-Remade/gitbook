@@ -26,11 +26,13 @@ Instagram：[https://www.instagram.com/dabao\_1124/](https://www.instagram.com/d
 
 Instagram：[https://www.instagram.com/huan.lcc/](https://www.instagram.com/huan.lcc/)
 
-### ⌨社群MOD：
+### ⌨社群 MOD：
 
 #### Chad（電台FM102.3）
 
 Twitter：[https://twitter.com/1023\_radio](https://twitter.com/1023\_radio)
+
+Instagram：[https://www.instagram.com/radio\_fm1023/](https://www.instagram.com/radio\_fm1023/)
 
 #### Brain（布萊恩）
 
