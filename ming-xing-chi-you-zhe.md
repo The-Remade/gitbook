@@ -26,6 +26,16 @@ Twitter：[https://twitter.com/handsomewillie](https://twitter.com/handsomewilli
 
 
 
+## Yu-Ming Wu
+
+#### Sneaker News 創辦人
+
+官方網站：[https://sneakernews.com/](https://sneakernews.com/)
+
+Instagram：[https://www.instagram.com/sneakernews/](https://www.instagram.com/sneakernews/)
+
+
+
 ## dAAAb 寶博士
 
 #### 現任國立臺北科技大學互動設計系專任助理教授，同時經營「寶博朋友說」 Podcast
