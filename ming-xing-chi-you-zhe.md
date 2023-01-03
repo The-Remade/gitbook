@@ -2,7 +2,7 @@
 
 ## 9gagceo
 
-#### 9GAG 是一個源於香港的網路平台及社交媒體網站，西方網路文化中哏圖的重要來源。 同時也是 Memeland 創辦人。
+#### 9GAG 是源自於香港的網路平台及社交媒體網站。 同時也是 Memeland 創辦人
 
 Twitter：[https://twitter.com/9gagceo](https://twitter.com/9gagceo)
 
@@ -36,16 +36,6 @@ Instagram：[https://www.instagram.com/sneakernews/](https://www.instagram.com/s
 
 
 
-## dAAAb 寶博士
-
-#### 現任國立臺北科技大學互動設計系專任助理教授，同時經營「寶博朋友說」 Podcast
-
-Twitter：[https://twitter.com/dAAAb](https://twitter.com/dAAAb)
-
-Apple Podcast：[https://podcasts.apple.com/tw/podcast/%E5%AF%B6%E5%8D%9A%E6%9C%8B%E5%8F%8B%E8%AA%AA/id1484923390](https://podcasts.apple.com/tw/podcast/%E5%AF%B6%E5%8D%9A%E6%9C%8B%E5%8F%8B%E8%AA%AA/id1484923390)
-
-
-
 ## 陳零九
 
 #### YOLO Cat 創辦人，創作歌手、主持人。現為《娛樂百分百》主持人、雙人組合「九澤CP」及男子團體「五堅情」的成員
@@ -61,6 +51,14 @@ Instagram：[https://www.instagram.com/diegodtk09/](https://www.instagram.com/di
 #### 男歌手、饒舌歌手、藝人、主持、演員。現為男子團體五堅情成員及饒舌團體CHING G SQUAD成員
 
 Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.com/shoumethemoneyxx/)
+
+
+
+## ECHO
+
+#### 口技音樂藝術家、詞曲創作歌手
+
+Instagram：[https://www.instagram.com/echobbox/](https://www.instagram.com/echobbox/)
 
 
 
