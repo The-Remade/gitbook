@@ -6,15 +6,17 @@
 
 Twitter：[https://twitter.com/9gagceo](https://twitter.com/9gagceo)
 
+Memeland Twitter：[https://twitter.com/Memeland](https://twitter.com/Memeland)
+
 
 
 ## Zapito
 
-#### CloneX 創辦人之一
+#### CloneX 共同創辦人
 
 Twitter：[https://twitter.com/Zaptio](https://twitter.com/Zaptio)
 
-Instagram：[https://www.instagram.com/zaptio/](https://www.instagram.com/zaptio/)
+RTFKT Twitter：[https://twitter.com/RTFKT](https://twitter.com/RTFKT)
 
 
 
@@ -24,15 +26,43 @@ Instagram：[https://www.instagram.com/zaptio/](https://www.instagram.com/zaptio
 
 Twitter：[https://twitter.com/handsomewillie](https://twitter.com/handsomewillie)
 
+Alpacadabraz Twitter：[https://twitter.com/ALPACADABRAZ](https://twitter.com/ALPACADABRAZ)
+
 
 
 ## Yu-Ming Wu
 
 #### Sneaker News 創辦人
 
-官方網站：[https://sneakernews.com/](https://sneakernews.com/)
+Twitter：[https://twitter.com/mryumingwu](https://twitter.com/mryumingwu)
 
-Instagram：[https://www.instagram.com/sneakernews/](https://www.instagram.com/sneakernews/)
+Sneaker News Instagram：[https://www.instagram.com/sneakernews/](https://www.instagram.com/sneakernews/)
+
+
+
+## Phil Chen
+
+#### 宏達電去中心化長、Race Capital 合夥人、Presence Capital 創始管理合夥人與新北國王籃球隊執行長
+
+Twitter：[https://twitter.com/philchen913](https://twitter.com/philchen913)
+
+
+
+## Kevin Lin
+
+#### Twitch 共同創辦人暨營運長
+
+Twitter：[https://twitter.com/kevinlin](https://twitter.com/kevinlin)
+
+
+
+## Gabby Dizon
+
+#### Yield Guild Games 共同創辦人
+
+Twitter：[https://twitter.com/gabusch](https://twitter.com/gabusch)
+
+YGG Twitter：[https://twitter.com/YieldGuild](https://twitter.com/YieldGuild)
 
 
 
@@ -59,14 +89,6 @@ Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.
 #### 口技音樂藝術家、詞曲創作歌手
 
 Instagram：[https://www.instagram.com/echobbox/](https://www.instagram.com/echobbox/)
-
-
-
-## 吳宜樺
-
-#### 國際時裝模特兒
-
-Instagram：[https://www.instagram.com/\_ihua\_/](https://www.instagram.com/\_ihua\_/)
 
 
 

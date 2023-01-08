@@ -5,7 +5,7 @@
 * [💼 團隊成員](team-member.md)
 * [🔗 官方連結](official-link.md)
 * [🗺 項目路線圖](project-roadmap.md)
-* [🤜 合作項目](he-zuo-xiang-mu.md)
+* [🤜 企業合作](qi-ye-he-zuo.md)
 * [👑 Legendary 系列](cooperation-projects.md)
 * [🌟 明星持有者](ming-xing-chi-you-zhe.md)
 * [❓ E-DAMER 問與答](e-damer-q-and-a.md)
