@@ -40,6 +40,14 @@ Sneaker News Instagram：[https://www.instagram.com/sneakernews/](https://www.in
 
 
 
+## 周建安
+
+#### 新銳插畫家，主導 Elysium system 2D&#x20;
+
+Instagram：[https://www.instagram.com/c.a.chou/](https://www.instagram.com/c.a.chou/)
+
+
+
 ## Phil Chen
 
 #### 宏達電去中心化長、Race Capital 合夥人、Presence Capital 創始管理合夥人與新北國王籃球隊執行長
@@ -66,9 +74,27 @@ YGG Twitter：[https://twitter.com/YieldGuild](https://twitter.com/YieldGuild)
 
 
 
+## FRDY
+
+#### chronic 品牌主理人
+
+官方網站：[https://www.chronicc.cc/](https://www.chronicc.cc/)
+
+Instagram：[https://www.instagram.com/chronicxantidote/](https://www.instagram.com/chronicxantidote/)
+
+
+
+## Frank Lui
+
+#### 創意油管負責人
+
+Youtube：[https://www.youtube.com/@IDEASTUBE](https://www.youtube.com/@IDEASTUBE/featured)
+
+
+
 ## 陳零九
 
-#### YOLO Cat 創辦人，創作歌手、主持人。現為《娛樂百分百》主持人、雙人組合「九澤CP」及男子團體「五堅情」的成員
+#### YOLO Cat 創辦人，創作歌手、主持人
 
 Youtube：[https://www.youtube.com/@diegodtk0909/videos](https://www.youtube.com/@diegodtk0909/videos)
 
@@ -78,7 +104,7 @@ Instagram：[https://www.instagram.com/diegodtk09/](https://www.instagram.com/di
 
 ## 婁峻碩
 
-#### 男歌手、饒舌歌手、藝人、主持、演員。現為男子團體五堅情成員及饒舌團體CHING G SQUAD成員
+#### 男歌手、饒舌歌手、藝人、主持、演員
 
 Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.com/shoumethemoneyxx/)
 
@@ -102,21 +128,43 @@ Instagram：[https://www.instagram.com/qoop1113/](https://www.instagram.com/qoop
 
 
 
-## 酷炫
-
-#### YouTuber
-
-Youtube：[https://www.youtube.com/@bored\_raccoon\_kevin](https://www.youtube.com/@bored\_raccoon\_kevin)
-
-
-
 ## Onion man 洋蔥
 
-#### Onion Meta Official 創辦人，圖文 YouTuber，又稱洋蔥。影片內容主要用畫畫來講述生活中發生的故事
+#### Onion Meta Official 創辦人，圖文 YouTuber
 
 Youtube：[https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA](https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA)
 
 Instagram：[https://www.instagram.com/onionman\_\_/](https://www.instagram.com/onionman\_\_/)
 
 
+
+## 寶博士
+
+#### 臺北科技大學互動設計系專任助理教授，「寶博朋友說」主持人
+
+Youtube：[https://www.youtube.com/user/dAAAb](https://www.youtube.com/user/dAAAb)
+
+
+
+## 阿璋
+
+#### 「NFT輕鬆聊」主持人
+
+Instagram：[https://www.instagram.com/johntooltw/](https://www.instagram.com/johntooltw/)
+
+
+
+## 幣圈保羅
+
+#### CryptoPaul VIP Pass 創辦人
+
+Instagram：[https://www.instagram.com/cryptopaul\_/](https://www.instagram.com/cryptopaul\_/)
+
+
+
+## 水丰刀
+
+#### YouTuber
+
+Youtube：[https://www.youtube.com/@yuubuke/](https://www.youtube.com/@yuubuke/)
 
