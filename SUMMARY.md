@@ -11,6 +11,6 @@
 * [❓ E-DAMER 問與答](e-damer-q-and-a.md)
 * [⚒ 關於 RNFT (兌換教學與QA)](guan-yu-rnft-dui-huan-jiao-xue-yu-qa.md)
 * [🧑🏫 Polygon 鏈相關教學](polygon-lian-xiang-guan-jiao-xue.md)
-* [🎙 社群內部 AMA](discord-community-amas.md)
-* [🎤 項目聯合 AMA](amas-on-twitter-spaces.md)
+* [🎙 社群 AMA](discord-community-amas.md)
+* [🎤 聯合 AMA](amas-on-twitter-spaces.md)
 * [🎡 2022 年活動紀錄](2022-nian-huo-dong-ji-lu.md)

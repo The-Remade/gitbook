@@ -12,7 +12,7 @@
 
 ## 線下活動：
 
-### 01．OneOffs
+### 01．台北 OneOffs
 
 {% embed url="https://twitter.com/taiwanswag_/status/1602431971602243584" %}
 
@@ -33,6 +33,10 @@
 {% embed url="https://twitter.com/taiwanswag_/status/1604300037017595904" %}
 
 ### 05．年末 TR 線下聚
+
+{% embed url="https://twitter.com/TheRemade_/status/1608750463792599046?s=20&t=tcL3HjlA3Pc5zPuSe4Vg3g" %}
+
+{% embed url="https://twitter.com/taiwanswag_/status/1609060431968239616?s=20&t=pvFufqxDPH3T_FjmzTjCCA" %}
 {% endtab %}
 
 {% tab title="11 月" %}
@@ -59,6 +63,8 @@
 {% embed url="https://twitter.com/dabao1124/status/1594398057927348224" %}
 
 ### 03．Art Basel Miami
+
+
 {% endtab %}
 
 {% tab title="10 月" %}
@@ -84,7 +90,7 @@
 
 <figure><img src=".gitbook/assets/IMG_0984.jpg" alt=""><figcaption></figcaption></figure>
 
-#### 03．Dallas SneakerCon
+### 03．Dallas SneakerCon
 
 {% embed url="https://twitter.com/johnnyx_nft/status/1581440028663611394" %}
 {% endtab %}
