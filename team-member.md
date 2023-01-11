@@ -32,11 +32,9 @@ Instagram：[https://www.instagram.com/huan.lcc/](https://www.instagram.com/huan
 
 Twitter：[https://twitter.com/1023\_radio](https://twitter.com/1023\_radio)
 
+Instagram：[https://www.instagram.com/radio\_fm1023/](https://www.instagram.com/radio\_fm1023/)
+
 #### Brain（布莱恩）
-
-#### Haru（哈鲁）
-
-Twitter：[https://twitter.com/theSunrisEz](https://twitter.com/theSunrisEz)
 
 
 

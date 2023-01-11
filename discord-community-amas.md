@@ -1,8 +1,101 @@
-# 🎙 Discord 社群 AMA 纪录
+# 🎙 社群 AMA
 
 ### 2022
 
 {% tabs %}
+{% tab title="10/28" %}
+◆ The Remade 与 Steve Nash 基金会合作，所有的捐款与拍卖收入都将全数捐赠给与慈善机构&#x20;
+
+◆ 经基金会同意后推出 TR X SN Air Force 1 复刻板盲盒&#x20;
+
+◆ 兑换说明请参考 🪐． announcement&#x20;
+
+◆ 两张 Polygon 链上的 RNFT 兑换成一张 ETH 链上的 NFT 盲盒&#x20;
+
+◆ 钱包需准备 ETH （ETH 链） 和 Matic （Polygon 链）&#x20;
+
+◆ Tommy 在 10 月 31 日的线下活动会再透漏一些讯息给到现场的持有者
+
+
+
+![:pumpkin:](https://cdn.discordapp.com/emojis/1026694564813213766.webp?size=44\&quality=lossless) 万圣节线下活动![:pumpkin:](https://cdn.discordapp.com/emojis/1026694564813213766.webp?size=44\&quality=lossless) \
+◆ 活动资讯请参考 ⚡． events-ann&#x20;
+
+◆ 万圣节线下活动购票连结：https://www.accupass.com/event/2210171141121840277237&#x20;
+
+◆ 当天也有很多活动与小奖品，其中还有 REVO 白单&#x20;
+
+◆ Halfway Studio 的 IG https://www.instagram.com/halfwaystud.io/
+{% endtab %}
+
+{% tab title="10/08" %}
+◆ 祝贺Sneaker News成为第一个 E-Damer的传说鞋盒合作持有者。&#x20;
+
+◆ The Remade是从台湾出发的国际项目，未来若有对外资讯对接与其他项目合作，基本上都会在Twitter上面开AMA。大多数会以英文的形式与外界合作。重要相关讯息都会在整理成中文给大家。 (希望大家有空也可以都来参与，即使英文不会都会慢慢进步的唷！)
+
+&#x20;◆ 周汤豪演唱会的门票，当日到达现场，统一找 @👟【鞋教】翔翔Max｜ THE REMADE 拿门票，会有专门TR座位区。 Oct 10月(线上/线下)活动相关：&#x20;
+
+◆ StevenNash 精彩时刻活动
+
+&#x20;◆ 更换鞋子 NFT 头像活动，(Twitter/IG/DC)都可，主要迎造万圣节氛围 (持有者可以把自己的头像放在中文社群上，会帮忙大家变成新的图档)&#x20;
+
+◆ 穿搭活动延长至 10 月底，会从中挑出最棒最好的影片创作者，提供世上只有仅少数的鞋子《芝加哥公牛鞋子》or《单宁稀有鞋》，请大家踊跃参加！现在官网还可以兑换 RE:DREAMER 鞋款哦
+
+◆ 预计10/31-11/13，会举办台北线下中小型 TR 万圣节活动 Party，请随时追踪 DC 讯息！
+{% endtab %}
+
+{% tab title="09/17" %}
+◆ 全新官方网站上线，更新内容请参考 🪐． announcement&#x20;
+
+◆ 下一季球鞋为联名款，由 RNFT 兑换另一个 NFT，并可以同时获得虚拟鞋与实体鞋，详细日期与兑换规则请等候公告&#x20;
+
+◆ RE:DREAMER 的鞋款将持续在商城让持有者兑换，确保大家的权利&#x20;
+
+◆ 9 月 24 日参与 CloneX 在台北举办的线下聚会&#x20;
+
+◆ 10 月 10 日参与 C-cubed 举办的篮球比赛，参与活动的项目有 Yolocat、Fomodog、羊驼等，会以 3 对 3 的形式进行，欢迎有意愿的鞋友来报名参加，参加者也会获得 Tommy 提供的奖励。&#x20;
+
+◆ 11 月 2、3 日 The Remade 参与 NFT London&#x20;
+
+◆ 11 月 18、19、20 日 The Remade 参与 DesignerCon ，许多国际知名的蓝筹项目也会参与其中 ◆ 10 月中至 11 月底将会有重要事件&#x20;
+
+◆ 12 月 9、10、11 日 The Remade 参与 One0ffs&#x20;
+
+◆ The Remade 历年在农历新年都有发表限定款球鞋，2023 年的农历新年...敬请期待&#x20;
+
+◆ 未来 The Remade 的商场也能够兑换其他品牌的商品、服饰等&#x20;
+
+◆ 虚实整合是目前的趋势，说不定未来在商城兑换球鞋时可以同时获得一双实体跟一双虚拟的，并让自己 Web3 的人物也可以穿上同款球鞋&#x20;
+
+◆ 为了与社群更密切联系，新增设了 Line 的社群，欢迎大家加入&#x20;
+
+◆ 团队在 DC 社群中分工主要为：创办人 Tommy、项目经理 Dabao、DC 主要联络人 Chad (电台)、订单负责人 布莱恩、合作宣传 哈鲁，近期还会新增一位 Mod&#x20;
+
+◆ 持有者如果想要与 The Remade 合作或是使用商标等做出其他产品的话，都欢迎与 Dabao 联系，让整个社群能够更加的壮大&#x20;
+
+◆ The Remade 接下来会与多位设计师合作 设计师：&#x20;
+
+Johnny X NFT https://twitter.com/johnnyx\_nft&#x20;
+
+AR、VR 程式设计：EVITA https://twitter.com/EvitaLabs&#x20;
+
+动画师：MakiDZN https://twitter.com/MakiDZNS&#x20;
+
+虚拟服装设计：PXLDON https://twitter.com/pxldon&#x20;
+
+◆ 未来 The Remade 的 Web2 品牌也会有事件公布&#x20;
+
+◆ 未来或许单持有 RNFT 也会有相关赋能&#x20;
+
+◆ The Remade 的主要团队人数(包含社群)有 13 人，还有投资的四间公司人力&#x20;
+
+◆ The Remade 是要长期经营的项目，Lengend 和五元素的消息，未来会根据项目的发展来逐步公布&#x20;
+
+◆ 9 月份的『穿搭与开箱』活动，公布另一个特别奖项，详细内容请参考 🪐． announcement&#x20;
+
+◆ E-damer 销售所获得的资金，主要用于投资其他公司与维持社群运营
+{% endtab %}
+
 {% tab title="08/21" %}
 * 主题讨论版票选前三名：NFT News 版、Training 版、球鞋讨论版。&#x20;
 * 可以到 #🦖． topicdiscussion 提名版主，提名到 8 月 24 日，版主确认后就会开启频道。&#x20;
