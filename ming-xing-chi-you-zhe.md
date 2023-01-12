@@ -110,14 +110,6 @@ Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.
 
 
 
-## ECHO
-
-#### 口技音樂藝術家、詞曲創作歌手
-
-Instagram：[https://www.instagram.com/echobbox/](https://www.instagram.com/echobbox/)
-
-
-
 ## 聖結石
 
 #### YouTuber
