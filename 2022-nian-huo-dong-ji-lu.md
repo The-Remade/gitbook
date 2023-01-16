@@ -6,13 +6,15 @@
 
 ### 01．世足競猜
 
-<figure><img src=".gitbook/assets/wq__1__1__1__1__1.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/Cl2eKjapUMR/?utm_source=ig_web_copy_link" %}
 
 
 
 ## 線下活動：
 
 ### 01．台北 OneOffs
+
+{% embed url="https://www.instagram.com/p/Cl_h_f6J97W/?utm_source=ig_web_copy_link" %}
 
 {% embed url="https://twitter.com/taiwanswag_/status/1602431971602243584" %}
 
@@ -84,11 +86,13 @@
 
 ### 01．C-Cubed 籃球比賽
 
-<figure><img src=".gitbook/assets/CMYK-.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/CjAdU5opjv1/?utm_source=ig_web_copy_link" %}
 
 ### 02．halfway聯合萬聖節活動
 
 <figure><img src=".gitbook/assets/IMG_0984.jpg" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.instagram.com/p/CkSMk9JvC6K/?utm_source=ig_web_copy_link" %}
 
 ### 03．Dallas SneakerCon
 
@@ -102,13 +106,19 @@
 
 <figure><img src=".gitbook/assets/LINE_ALBUM_220903.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 02．官網 2.0
 
 <figure><img src=".gitbook/assets/2022-09-17_10.59.44.png" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 03．STEVE NASH 合作
 
 {% embed url="https://twitter.com/SteveNashFdn/status/1582911950555877376" %}
+
+{% embed url="https://www.instagram.com/reel/CkYariMpOuy/?utm_source=ig_web_copy_link" %}
 
 
 
@@ -125,6 +135,8 @@
 ### 02．Silicon Slopes
 
 {% embed url="https://twitter.com/taiwanswag_/status/1578190985179279365" %}
+
+{% embed url="https://www.instagram.com/p/CjPizJvO_mP/?utm_source=ig_web_copy_link" %}
 {% endtab %}
 
 {% tab title="8 月" %}
@@ -142,7 +154,7 @@
 
 ### 01．萬寶華活動
 
-<figure><img src=".gitbook/assets/S__96501777.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://twitter.com/shark_bom/status/1558459297331552257?s=20&t=xgMTQF4JD65xQZpTP4s4CA" %}
 {% endtab %}
 
 {% tab title="6 月" %}
@@ -152,17 +164,27 @@
 
 {% embed url="https://podcasts.apple.com/tw/podcast/ep139-%E9%80%99%E5%80%8Bnft%E8%B2%B7%E4%BA%86%E7%B5%82%E8%BA%AB%E9%A0%98%E9%9E%8B-ft-the-remade-nft-founder-tommy-chen/id1484923390?i=1000565566223" %}
 
+
+
 ### 02．分享你最愛的 TR 鞋
+
+
 
 ### 03．NFT輕鬆聊 Podcast
 
 {% embed url="https://podcasts.apple.com/us/podcast/ep3-%E6%AF%8F-3-%E5%80%8B%E6%9C%88%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B2%BB%E9%A0%98%E4%B8%80%E9%9B%99%E6%BD%AE%E6%B5%81%E9%9E%8B-ft-the-remade-%E5%89%B5%E8%BE%A6%E4%BA%BA-tommy/id1627721024?i=1000566704284" %}
 
+
+
 ### 04．邀請賽
 
 <figure><img src=".gitbook/assets/edminvite__1.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 05．雙持有者空投
+
+<figure><img src=".gitbook/assets/CJ.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -174,6 +196,10 @@
 
 {% embed url="https://twitter.com/TheRemade_/status/1532216049038671872" %}
 
+{% embed url="https://www.instagram.com/p/CeadKKRPT2x/?utm_source=ig_web_copy_link" %}
+
+
+
 ### 02．NFT NYC
 
 {% embed url="https://twitter.com/TheRemade_/status/1537699015893979136" %}
@@ -182,7 +208,11 @@
 
 {% embed url="https://twitter.com/TheRemade_/status/1539657120307879936" %}
 
+
+
 ### 03．眼鏡開幕派對
+
+{% embed url="https://www.instagram.com/tv/Ceqca5kgQq9/?utm_source=ig_web_copy_link" %}
 {% endtab %}
 
 {% tab title="5 月" %}
@@ -190,13 +220,17 @@
 
 ### 01．早安晨之美
 
+
+
 ### 02．母親節創作活動
 
-<figure><img src=".gitbook/assets/0501__1.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/CdD4Z1ghPgW/?utm_source=ig_web_copy_link" %}
 
 ### 03．貼圖創作大賽
 
-<figure><img src=".gitbook/assets/emoji_create__1.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/Cdk1G8Ip-R-/?utm_source=ig_web_copy_link" %}
+
+
 
 ### 04．票選第一雙鞋
 
@@ -208,9 +242,11 @@
 
 ### 01．猜五元素
 
+
+
 ### 02．項目發售
 
-<figure><img src=".gitbook/assets/Screen_Shot_2022-02-09_at_3.39.45_AM.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.instagram.com/p/CaGuQepJFbd/?utm_source=ig_web_copy_link" %}
 
 {% embed url="https://twitter.com/TheRemade_/status/1500851110801997825" %}
 {% endtab %}

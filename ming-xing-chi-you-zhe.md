@@ -1,3 +1,7 @@
+---
+description: 排序依照數字、英文、中文
+---
+
 # 🌟 明星持有者
 
 ## 9gagceo
@@ -10,13 +14,47 @@ Memeland Twitter：[https://twitter.com/Memeland](https://twitter.com/Memeland)
 
 
 
-## Zapito
+## Frank Lui
 
-#### CloneX 共同創辦人
+#### 創意油管負責人
 
-Twitter：[https://twitter.com/Zaptio](https://twitter.com/Zaptio)
+Youtube：[https://www.youtube.com/@IDEASTUBE](https://www.youtube.com/@IDEASTUBE/featured)
 
-RTFKT Twitter：[https://twitter.com/RTFKT](https://twitter.com/RTFKT)
+
+
+## FRDY
+
+#### chronic 品牌主理人
+
+官方網站：[https://www.chronicc.cc/](https://www.chronicc.cc/)
+
+Instagram：[https://www.instagram.com/chronicxantidote/](https://www.instagram.com/chronicxantidote/)
+
+
+
+## Gabby Dizon
+
+#### Yield Guild Games 共同創辦人
+
+Twitter：[https://twitter.com/gabusch](https://twitter.com/gabusch)
+
+YGG Twitter：[https://twitter.com/YieldGuild](https://twitter.com/YieldGuild)
+
+
+
+## Kevin Lin
+
+#### Twitch 共同創辦人暨營運長
+
+Twitter：[https://twitter.com/kevinlin](https://twitter.com/kevinlin)
+
+
+
+## Phil Chen
+
+#### 宏達電去中心化長、Race Capital 合夥人、Presence Capital 創始管理合夥人與新北國王籃球隊執行長
+
+Twitter：[https://twitter.com/philchen913](https://twitter.com/philchen913)
 
 
 
@@ -40,6 +78,24 @@ Sneaker News Instagram：[https://www.instagram.com/sneakernews/](https://www.in
 
 
 
+## Zapito
+
+#### CloneX 共同創辦人
+
+Twitter：[https://twitter.com/Zaptio](https://twitter.com/Zaptio)
+
+RTFKT Twitter：[https://twitter.com/RTFKT](https://twitter.com/RTFKT)
+
+
+
+## 水丰刀
+
+#### YouTuber
+
+Youtube：[https://www.youtube.com/@yuubuke/](https://www.youtube.com/@yuubuke/)
+
+##
+
 ## 周建安
 
 #### 新銳插畫家，主導 Elysium system 2D&#x20;
@@ -48,47 +104,29 @@ Instagram：[https://www.instagram.com/c.a.chou/](https://www.instagram.com/c.a.
 
 
 
-## Phil Chen
+## 阿璋
 
-#### 宏達電去中心化長、Race Capital 合夥人、Presence Capital 創始管理合夥人與新北國王籃球隊執行長
+#### 「NFT輕鬆聊」主持人
 
-Twitter：[https://twitter.com/philchen913](https://twitter.com/philchen913)
-
-
-
-## Kevin Lin
-
-#### Twitch 共同創辦人暨營運長
-
-Twitter：[https://twitter.com/kevinlin](https://twitter.com/kevinlin)
+Instagram：[https://www.instagram.com/johntooltw/](https://www.instagram.com/johntooltw/)
 
 
 
-## Gabby Dizon
+## 洋蔥
 
-#### Yield Guild Games 共同創辦人
+#### Onion Meta Official 創辦人，圖文 YouTuber
 
-Twitter：[https://twitter.com/gabusch](https://twitter.com/gabusch)
+Youtube：[https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA](https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA)
 
-YGG Twitter：[https://twitter.com/YieldGuild](https://twitter.com/YieldGuild)
-
-
-
-## FRDY
-
-#### chronic 品牌主理人
-
-官方網站：[https://www.chronicc.cc/](https://www.chronicc.cc/)
-
-Instagram：[https://www.instagram.com/chronicxantidote/](https://www.instagram.com/chronicxantidote/)
+Instagram：[https://www.instagram.com/onionman\_\_/](https://www.instagram.com/onionman\_\_/)
 
 
 
-## Frank Lui
+## 婁峻碩
 
-#### 創意油管負責人
+#### 男歌手、饒舌歌手、藝人、主持、演員
 
-Youtube：[https://www.youtube.com/@IDEASTUBE](https://www.youtube.com/@IDEASTUBE/featured)
+Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.com/shoumethemoneyxx/)
 
 
 
@@ -102,14 +140,6 @@ Instagram：[https://www.instagram.com/diegodtk09/](https://www.instagram.com/di
 
 
 
-## 婁峻碩
-
-#### 男歌手、饒舌歌手、藝人、主持、演員
-
-Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.com/shoumethemoneyxx/)
-
-
-
 ## 聖結石
 
 #### YouTuber
@@ -117,32 +147,6 @@ Instagram：[https://www.instagram.com/shoumethemoneyxx/](https://www.instagram.
 Youtube：[https://www.youtube.com/@user-gk8cm3lf5i/](https://www.youtube.com/@user-gk8cm3lf5i/)
 
 Instagram：[https://www.instagram.com/qoop1113/](https://www.instagram.com/qoop1113/)
-
-
-
-## Onion man 洋蔥
-
-#### Onion Meta Official 創辦人，圖文 YouTuber
-
-Youtube：[https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA](https://www.youtube.com/channel/UCzxN4G3s9uR9ao5\_O5DoXmA)
-
-Instagram：[https://www.instagram.com/onionman\_\_/](https://www.instagram.com/onionman\_\_/)
-
-
-
-## 寶博士
-
-#### 臺北科技大學互動設計系專任助理教授，「寶博朋友說」主持人
-
-Youtube：[https://www.youtube.com/user/dAAAb](https://www.youtube.com/user/dAAAb)
-
-
-
-## 阿璋
-
-#### 「NFT輕鬆聊」主持人
-
-Instagram：[https://www.instagram.com/johntooltw/](https://www.instagram.com/johntooltw/)
 
 
 
@@ -154,9 +158,9 @@ Instagram：[https://www.instagram.com/cryptopaul\_/](https://www.instagram.com/
 
 
 
-## 水丰刀
+## 寶博士
 
-#### YouTuber
+#### 臺北科技大學互動設計系專任助理教授，「寶博朋友說」主持人
 
-Youtube：[https://www.youtube.com/@yuubuke/](https://www.youtube.com/@yuubuke/)
+Youtube：[https://www.youtube.com/user/dAAAb](https://www.youtube.com/user/dAAAb)
 
