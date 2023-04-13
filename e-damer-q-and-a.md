@@ -2,21 +2,21 @@
 
 ### 01、What is E-DAMER NFT?
 
-E-DAMER is issued by The Remade and is a NFT that creates a pair of customized shoes every 90 days. During each 90 days cycle for which the NFT is held, a RNFT is produced and is redeemable for an actual physical pair of sneakers. The transaction is permanent. Purchasers can participate in the social networking as well as the manufacturing process of the shoe itself.
+E-DAMER is an NFT issued by The Remade project. Holding E-DAMER for 90 days generates an RNFT, which can be redeemed for customized physical sneakers or other goods, and is valid indefinitely. NFT holders can also participate in Discord community interactions and the shoe customization process.
 
 ### 02、What is RNFT?
 
 RNFT is a new NFT exchange protocol designed by RE:DREAMER Lab, actualizing the original Saas service of the corresponding Web3. In other words, this is an exchangeable NFT (much like a token in an online store, which picture can either be a shoe lace or shoe box) and when E-DAMER is confirmed to have been held for 90 days it will automatically airdrop RNFT to the wallet (polygon chain) and will be able to redeem the specific shoe model for that season (based on online store availability). Purchaser can also withhold and accumulate multiple RNFTs in exchange for special shoe models or even trade on OS to increase the chance of obtaining these special models.
 
-<figure><img src=".gitbook/assets/FRqVROSakAAeywe.jpg" alt=""><figcaption><p>E-DAMER 運作方式</p></figcaption></figure>
+<figure><img src=".gitbook/assets/FRqVROSakAAeywe.jpg" alt=""><figcaption><p>How E-DAMER works</p></figcaption></figure>
 
 ### 03、How are shoes redeemed? Do they come in different sizes?
 
 Purchasers can select different sizes when redeeming shoes with RNFT at the online store.
 
-### 04、What kind of shoe model can be redeemed for each 90 days cycle?
+### 04、What types of shoes can RNFT be redeemed for?
 
-Prior to airdrop, redeemable shoe model for that season will be announced for a limited time period. The total amount for said model alone for that season will be approximately 500 pairs. It could be 500 pairs per model or 200 something pairs per two models. Special co-branding shoe models will also be announced and available for redemption with 3 to 5 RNFTs. The rarer the shoe model, the more valuable the Holder’s RNFT. Only E-DAMER is capable of creating RNFTs in exchange of these shoe models. For non-E-DAMER holders, as long as the holder has enough RNFTs, they will not be limited to the number of shoes that are redeemable for that season, thereby increasing fluidity and value of secondary markets because of the rareness of RNFTs.
+Before redemption, the available shoe models and redemption period will be announced. Each shoe model has a limited quantity, which could be 500 pairs of one style or 200 pairs of two different styles, and there may be special collaborations that require 2 or more RNFTs for redemption. As rarer shoe models are announced, the value of RNFTs held by their owners will increase. Only E-DAMER can generate RNFTs for the redemption of these shoes, but even non-E-DAMER holders can redeem shoes as long as they have enough RNFTs. The scarcity of RNFTs is leveraged to increase liquidity and value in the secondary market. In the future, more types of products will be offered for redemption, so stay tuned.
 
 <figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption><p>The first season (06/24 ~ 9/21) redeem shoes</p></figcaption></figure>
 
@@ -47,7 +47,3 @@ It can only be redeemed once, and the RNFT will be burned after the redemption i
 ### 10、Are there any practical means of promotion?
 
 E-DAMER flew to New York in mid-June to lead the team to NFT NYC to promote and be a speaker, and brought the first pair of shoes and E-DAMER to the international market. Recently, there have also been recorded Podcast program promotion projects such as "寶博朋友說" and "NFT輕鬆聊". In September, the founder will go to NFT LONDON as a speaker to promote E-DAMER. After the end, he will participate in fashion weeks and other events in Europe and continue to promote it.
-
-### 11、When will Gen2 be promoted?
-
-The current plan for Gen2 is to wait until after the first wave of airdrop is complete. We will fulfill our promise first and proceed later with Gen2 3D shoes.

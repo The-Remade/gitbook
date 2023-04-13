@@ -24,7 +24,7 @@
 
 [https://opensea.io/collection/e-damer-rnft](https://opensea.io/collection/e-damer-rnft)
 
-**E-DAMER ASRNFT：**
+**E-DAMERX 2022 FW：**
 
-[https://opensea.io/collection/dual-holders-exclusive](https://opensea.io/collection/dual-holders-exclusive)
+[https://opensea.io/collection/dual-holders-exclusive](https://opensea.io/collection/e-damerx-2022-fw)
 
